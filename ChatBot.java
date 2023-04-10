@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Alunas: Bruna Eduarda Mariano Wnuk e Milena Mingoti
 public class ChatBot {
     public static void main (String [] args ){
         Scanner myScanner = new Scanner (System.in);
